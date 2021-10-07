@@ -2,7 +2,7 @@ import React, {useState} from "react";
 import './App.scss'
 import MenuAppBar from './Navbar'
 
-function Landing() {
+function Dashboard() {
     return (
         <div>
             <h2>Hello</h2>
@@ -10,4 +10,4 @@ function Landing() {
     )
 }
 
-export default Landing;
+export default Dashboard;
