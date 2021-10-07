@@ -6,4 +6,4 @@ To do:
 
 => Main UI and a landing page 
 
-=> Functional Log-In (done)
+=> Functional Log In (done) => auth Log In
